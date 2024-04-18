@@ -1,10 +1,10 @@
-![image](https://github.com/Vinnymesq/ProjetoBancoConsole/assets/110075377/9845fcef-d3ba-4642-bd8b-96063e315e9b)# Projeto Banco Console
+# Projeto Banco Console
 
 O Projeto Banco Console é uma aplicação de console simples, desenvolvida em C#, que simula as operações básicas de um banco, como criar uma conta, fazer depósitos e saques.
 
 ## Funcionalidades
 
--**Validação**: Os usuários devem criar um login e realizar a validação da senha, em qualquer ação que desejar fazer.
+- **Validação**: Os usuários devem criar um login e realizar a validação da senha, em qualquer ação que desejar fazer.
 - **Criação de Conta**: Os usuários podem criar novas contas bancárias, fornecendo informações básicas como nome, idade e saldo inicial.
 - **Depósito**: Os titulares das contas podem depositar dinheiro em suas contas.
 - **Saque**: Os titulares das contas podem sacar dinheiro de suas contas, desde que haja saldo disponível.
