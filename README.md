@@ -1,33 +1,23 @@
-# ProjetoBancoConsole
+<div align="center">
+  <h1>Projeto Banco Console</h1>
+  <p>Um sistema bancário básico em C# para simulação de operações bancárias.</p>
+  <img src="https://img.shields.io/github/license/Vinnymesq/ProjetoBancoConsole?style=flat-square" alt="License">
+  <img src="https://img.shields.io/github/languages/count/Vinnymesq/ProjetoBancoConsole?style=flat-square" alt="Languages">
+  <img src="https://img.shields.io/github/repo-size/Vinnymesq/ProjetoBancoConsole?style=flat-square" alt="Repo size">
+  <img src="https://img.shields.io/github/issues/Vinnymesq/ProjetoBancoConsole?style=flat-square" alt="Issues">
+</div>
 
-Um sistema de banco simples implementado em uma aplicação de console utilizando C#, integrado ao SQLite para armazenamento de dados.
+## 🚀 Funcionalidades
 
-## Visão Geral
+- **Cadastro de Conta:** Registre suas informações pessoais para criar uma conta bancária.
+  
+- **Depósito:** Adicione fundos à sua conta bancária.
+  
+- **Saque:** Retire dinheiro de sua conta bancária, desde que haja saldo disponível.
+  
+- **Transferência:** Transfira fundos entre contas bancárias.
 
-O ProjetoBancoConsole é uma aplicação de console que simula as operações básicas de um banco, permitindo aos usuários criar contas, realizar depósitos, saques e transferências entre contas. O armazenamento de dados é feito utilizando o SQLite, oferecendo uma solução leve e eficiente para persistência de dados.
+## 📝 Instruções de Uso
 
-## Funcionalidades Principais
-
-- **Gerenciamento de Contas**: Os usuários podem criar novas contas bancárias.
-- **Operações Financeiras**: Realize depósitos, saques e transferências entre contas.
-- **Armazenamento Seguro**: Os dados das contas são armazenados de forma segura utilizando o SQLite.
-
-## Pré-requisitos
-
-- **.NET Core SDK**: Certifique-se de ter o .NET Core SDK instalado em seu sistema.
-- **SQLite**: O SQLite deve estar disponível no sistema para o armazenamento de dados.
-
-## Como Utilizar
-
-1. Clone o repositório para o seu ambiente local.
-2. Abra o projeto em um ambiente de desenvolvimento compatível com C#.
-3. Compile o projeto e execute a aplicação de console.
-4. Siga as instruções apresentadas na tela para interagir com o sistema bancário.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você deseja contribuir com melhorias ou correções para este projeto, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
-
-## Licença
-
-Este projeto é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](https://github.com/Vinnymesq/ProjetoBancoConsole/blob/main/LICENSE) para obter mais informações.
+1. **Clone o Repositório:**
+git clone https://github.com/Vinnymesq/ProjetoBancoConsole.git
