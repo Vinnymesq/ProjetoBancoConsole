@@ -1,23 +1,42 @@
-<div align="center">
-  <h1>Projeto Banco Console</h1>
-  <p>Um sistema bancário básico em C# para simulação de operações bancárias.</p>
-  <img src="https://img.shields.io/github/license/Vinnymesq/ProjetoBancoConsole?style=flat-square" alt="License">
-  <img src="https://img.shields.io/github/languages/count/Vinnymesq/ProjetoBancoConsole?style=flat-square" alt="Languages">
-  <img src="https://img.shields.io/github/repo-size/Vinnymesq/ProjetoBancoConsole?style=flat-square" alt="Repo size">
-  <img src="https://img.shields.io/github/issues/Vinnymesq/ProjetoBancoConsole?style=flat-square" alt="Issues">
-</div>
+# Projeto Banco Console
 
-## 🚀 Funcionalidades
+![Banco Console Logo](https://via.placeholder.com/150)
 
-- **Cadastro de Conta:** Registre suas informações pessoais para criar uma conta bancária.
-  
-- **Depósito:** Adicione fundos à sua conta bancária.
-  
-- **Saque:** Retire dinheiro de sua conta bancária, desde que haja saldo disponível.
-  
-- **Transferência:** Transfira fundos entre contas bancárias.
+O Projeto Banco Console é uma aplicação de console simples, desenvolvida em C#, que simula as operações básicas de um banco, como criar uma conta, fazer depósitos e saques.
 
-## 📝 Instruções de Uso
+## Funcionalidades
 
-1. **Clone o Repositório:**
+- **Criação de Conta**: Os usuários podem criar novas contas bancárias, fornecendo informações básicas como nome, idade e saldo inicial.
+- **Depósito**: Os titulares das contas podem depositar dinheiro em suas contas.
+- **Saque**: Os titulares das contas podem sacar dinheiro de suas contas, desde que haja saldo disponível.
+- **Consulta de Saldo**: Os titulares das contas podem verificar o saldo atual de suas contas.
+
+## Pré-requisitos
+
+- [Visual Studio](https://visualstudio.microsoft.com/pt-br/) ou qualquer outro ambiente de desenvolvimento C#.
+
+## Como usar
+
+1. Clone este repositório:
+
+```bash
 git clone https://github.com/Vinnymesq/ProjetoBancoConsole.git
+```
+
+2. Abra o projeto no Visual Studio.
+
+3. Compile e execute a aplicação.
+
+4. Siga as instruções no console para interagir com o sistema bancário.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou criar uma issue para relatar problemas ou sugestões de melhoria.
+
+## Autores
+
+- [Seu Nome](https://github.com/seu-usuario) - Desenvolvedor principal
+
+## Licença
+
+Este projeto é licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
