@@ -36,8 +36,7 @@ git clone https://github.com/Vinnymesq/ProjetoBancoConsole.git
   
  <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-C%23-blueviolet" alt="Made with C#" />
-  <img src="https://img.shields.io/github/license/Vinnymesq/ProjetoBancoConsole" alt="License" />
-</p>
+  
 
 ## Licença
 
